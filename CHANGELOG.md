@@ -1,3 +1,12 @@
+## [v4.23.6](https://github.com/algolia/algoliasearch-client-javascript/compare/v4.23.5...4.23.6)
+
+* circle ci ([aa1b659](https://github.com/sefai/algoliasearch-client-javascript/commit/aa1b659))
+* Revert "chore: release v4.23.6" ([7bca223](https://github.com/sefai/algoliasearch-client-javascript/commit/7bca223))
+* chore: release v4.23.5 ([5120c10](https://github.com/sefai/algoliasearch-client-javascript/commit/5120c10))
+* chore: release v4.23.6 ([63cf552](https://github.com/sefai/algoliasearch-client-javascript/commit/63cf552))
+
+
+
 ## [v4.23.6](https://github.com/algolia/algoliasearch-client-javascript/compare/4.23.5...4.23.6)
 
 * chore: release v4.23.5 ([baa8793](https://github.com/sefai/algoliasearch-client-javascript/commit/baa8793))
